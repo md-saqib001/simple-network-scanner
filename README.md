@@ -16,7 +16,7 @@ A lightweight Python utility designed to discover active hosts on a network subn
 
 ### Installation
 1. Clone the repository:
-   ```bash
+```bash
    git clone [https://github.com/YOUR_USERNAME/simple-network-scanner.git](https://github.com/YOUR_USERNAME/simple-network-scanner.git)
 
 ```
